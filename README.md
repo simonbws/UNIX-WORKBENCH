@@ -1,4 +1,4 @@
-Title of the project: Peer-graded Assignment: Bash, Make, Git, and GitHub
+Title of the project: project1
 
 Date make ran at: Sun Oct 30 21:24:35 CEST 2022
 
